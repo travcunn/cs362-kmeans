@@ -8,7 +8,7 @@ Included is a simple and a probabilistic kmeans program. In this specific implem
 
 **To build kmeans:**
 
-    $ ./configure
+    $ ./build.sh
 
 For **simple kmeans**:
 
