@@ -1,7 +1,7 @@
-KMeans Implementation in Python
+KMeans Image Manipulator
 ===============================
 
-This is a naive kmeans implementation in Python, which was a project in CS362 (Data Structures) at IUPUI.
+This is a naive kmeans image manipulator, implemented in Python, which was a project in CS362 (Data Structures) at IUPUI.
 
 Included is a simple and a probabilistic kmeans program. In this specific implementation, only PGM format (black and white) images can be processed and with a little bit of modification, color images can also be processed. Raw image data is processed using stdin/stdout.
 
