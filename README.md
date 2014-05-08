@@ -33,3 +33,5 @@ Example Output
 
 ###### Simple k=20
 ![k=20 Soccer Ball](https://raw.githubusercontent.com/travcunn/cs362-kmeans/master/example-images/result_simple_2.jpg)
+
+As k gets closer to the number of colors in the original image, the image quality also increases.
